@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ExtentReportProject" parallel="classes">
+    
+     <listeners>
+          <listener class-name="Listeners.listenerClass"></listener>
+    </listeners>
+    
+    
+  <test name="TestCase 1" thread-count="5">
+    <classes>
+       <class name="TestCase.TestClass1"/>
+    </classes>
+  </test> <!-- Test -->
+    
+   <test name="TestCase 2" thread-count="5">
+    <classes>
+       <class name="TestCase.TestClass2"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="TestCase 3" thread-count="5">
+    <classes>
+       <class name="TestCase.TestClass3"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->
