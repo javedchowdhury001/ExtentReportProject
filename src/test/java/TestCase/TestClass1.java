@@ -34,7 +34,7 @@ public void clickAcademyTest() {
 	//Add new line from GitHub
 	//Add new line from local machine "thired commit"
 	//Add new line from local machine "Fourth commit"
-    //Add new line from local machine for develop branch
+    //Add new line from local machine for Develop branch
 
    }
 }
