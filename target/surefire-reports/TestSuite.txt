@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 50.459 s <<< FAILURE! - in TestSuite
-TestCase.TestClass3.facebookTest  Time elapsed: 12.414 s  <<< FAILURE!
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 48.954 s <<< FAILURE! - in TestSuite
+TestCase.TestClass3.facebookTest  Time elapsed: 11.612 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
 	at TestCase.TestClass3.facebookTest(TestClass3.java:26)
 
