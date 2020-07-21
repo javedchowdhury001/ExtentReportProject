@@ -27,6 +27,9 @@ public void clickAcademyTest() {
 	
 	driver.close();
 	driver.quit();
+	
+	//Git add new line second commit
+	
 
    }
 }

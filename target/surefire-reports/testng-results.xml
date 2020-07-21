@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="1" ignored="0" total="3" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="ExtentReportProject" duration-ms="55946" started-at="2020-07-21T13:25:37 EDT" finished-at="2020-07-21T13:26:33 EDT">
+  <suite name="ExtentReportProject" duration-ms="49388" started-at="2020-07-21T15:27:58 EDT" finished-at="2020-07-21T15:28:47 EDT">
     <groups>
     </groups>
-    <test name="TestCase 1" duration-ms="26194" started-at="2020-07-21T13:25:37 EDT" finished-at="2020-07-21T13:26:04 EDT">
+    <test name="TestCase 1" duration-ms="19996" started-at="2020-07-21T15:27:58 EDT" finished-at="2020-07-21T15:28:18 EDT">
       <class name="TestCase.TestClass1">
-        <test-method status="PASS" signature="clickAcademyTest()[pri:0, instance:TestCase.TestClass1@62fdb4a6]" name="clickAcademyTest" duration-ms="26116" started-at="2020-07-21T13:25:37 EDT" finished-at="2020-07-21T13:26:04 EDT">
+        <test-method status="PASS" signature="clickAcademyTest()[pri:0, instance:TestCase.TestClass1@62fdb4a6]" name="clickAcademyTest" duration-ms="19936" started-at="2020-07-21T15:27:58 EDT" finished-at="2020-07-21T15:28:18 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clickAcademyTest -->
       </class> <!-- TestCase.TestClass1 -->
     </test> <!-- TestCase 1 -->
-    <test name="TestCase 2" duration-ms="15628" started-at="2020-07-21T13:26:04 EDT" finished-at="2020-07-21T13:26:20 EDT">
+    <test name="TestCase 2" duration-ms="16065" started-at="2020-07-21T15:28:18 EDT" finished-at="2020-07-21T15:28:34 EDT">
       <class name="TestCase.TestClass2">
-        <test-method status="PASS" signature="googleTest()[pri:0, instance:TestCase.TestClass2@49070868]" name="googleTest" duration-ms="15624" started-at="2020-07-21T13:26:04 EDT" finished-at="2020-07-21T13:26:20 EDT">
+        <test-method status="PASS" signature="googleTest()[pri:0, instance:TestCase.TestClass2@49070868]" name="googleTest" duration-ms="16043" started-at="2020-07-21T15:28:18 EDT" finished-at="2020-07-21T15:28:34 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- googleTest -->
       </class> <!-- TestCase.TestClass2 -->
     </test> <!-- TestCase 2 -->
-    <test name="TestCase 3" duration-ms="13251" started-at="2020-07-21T13:26:20 EDT" finished-at="2020-07-21T13:26:33 EDT">
+    <test name="TestCase 3" duration-ms="12414" started-at="2020-07-21T15:28:35 EDT" finished-at="2020-07-21T15:28:47 EDT">
       <class name="TestCase.TestClass3">
-        <test-method status="FAIL" signature="facebookTest()[pri:0, instance:TestCase.TestClass3@15d9bc04]" name="facebookTest" duration-ms="12734" started-at="2020-07-21T13:26:20 EDT" finished-at="2020-07-21T13:26:33 EDT">
+        <test-method status="FAIL" signature="facebookTest()[pri:0, instance:TestCase.TestClass3@15d9bc04]" name="facebookTest" duration-ms="11886" started-at="2020-07-21T15:28:35 EDT" finished-at="2020-07-21T15:28:46 EDT">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [true] but found [false]]]>
