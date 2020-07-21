@@ -28,8 +28,8 @@ public void clickAcademyTest() {
 	driver.close();
 	driver.quit();
 	
-	//Git add new line second commit
-	
+	//Git add new line from local machine "second commit"
+	//Add new line from GitHub
 
    }
 }
